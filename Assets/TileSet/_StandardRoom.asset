@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b99ce8fc5ab529d48ae43e3b77f74b38, type: 3}
+  m_Name: _StandardRoom
+  m_EditorClassIdentifier: 
+  floorTiles:
+  - tile: {fileID: 7150963767270156942, guid: 2c78dc7e9e40cb14c80419225661b794, type: 3}
+    frequency: 10
+  wallTiles:
+  - tile: {fileID: 1756471130709502894, guid: 19d3eb28ea6796c4eb21c6358b8d854c, type: 3}
+    frequency: 1
+  ceilingTiles:
+  - tile: {fileID: 7381411949442242629, guid: ff30e0fc70b664b4f90de8676ca8053a, type: 3}
+    frequency: 1
